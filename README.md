@@ -1,1 +1,3 @@
 # scmprojectA
+
+hi hello
